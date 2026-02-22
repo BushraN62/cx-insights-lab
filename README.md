@@ -1,4 +1,4 @@
-# cx-insights-lab
+# InsightHub
 AI-powered customer support analytics platform with NLP and PostgreSQL
 ## Supported Data Formats
 
